@@ -1,7 +1,12 @@
 {
     "title": "Marla and the Elemental Rings DEMO",
     "slug": "marla-and-the-elemental-rings-demo",
-    "developer": "Geek_Joystick",
+    "developer": [
+        "Geek_Joystick",
+        "oshf",
+        "robotmeadows",
+        "AtsushiHdez"
+    ],
     "typetag": "game",
     "tags": [
         "gbcompo21",
